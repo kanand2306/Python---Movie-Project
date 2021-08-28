@@ -13,8 +13,8 @@ We also will get to know that how we can retrieve data from any file by using va
 
 
 # Dataset:
-Column 1: ID
-Column 2: Name of Movie
-Column 3: Year of Release
-Column 4: Rating
-Column 5: Duration of Movie in seconds
+1. ID
+2. Name of Movie
+3. Year of Release
+4. Rating
+5. Duration of Movie in seconds
